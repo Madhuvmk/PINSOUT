@@ -12,6 +12,11 @@
   <p><input placeholder="Phone..." oninput="this.className = ''"></p>
 </div>
 
+  <div class="tab">Address:
+  <p><input placeholder="text" oninput="this.className = ''"></p>
+</div>
+
+  
 <div class="tab">Birthday:
   <p><input placeholder="dd" oninput="this.className = ''"></p>
   <p><input placeholder="mm" oninput="this.className = ''"></p>

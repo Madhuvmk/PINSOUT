@@ -23,9 +23,9 @@
   <p><input placeholder="yyyy" oninput="this.className = ''"></p>
 </div>
 
-<div class="tab">Login InFO:
-  <p><input placeholder="Username..." oninput="this.className = ''"></p>
-  <p><input placeholder="Password..." oninput="this.className = ''"></p>
+<div class="tab">Payment Details:
+  <p><input placeholder="true" oninput="this.className = ''"></p>
+  <p><input placeholder="false" oninput="this.className = ''"></p>
 </div>
 
 <div style="overflow:auto;">
